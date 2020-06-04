@@ -1,5 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
-
-space time and the human condition
+I'm glad you are here. I plan to talk about ... space time and the human condition
